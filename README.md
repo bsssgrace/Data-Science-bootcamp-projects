@@ -1,6 +1,7 @@
 # Data-Science-bootcamp-projects
 4-Month intensive Data Science bootcamp with [DataRockie](https://datarockie.com/)
 
+## Main
 * [x] Spreadsheets
 * [x] SQL Database
 * [x] R Programming
@@ -14,3 +15,6 @@
 * [ ] Intro to Python
 * [ ] Essential Python for Data Analyst
 * [ ] Dashboard
+
+## Mini projects
+* [x] Intro to Web Scraping
