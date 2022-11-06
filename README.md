@@ -18,3 +18,4 @@
 
 ## Mini projects
 * [x] Intro to Web Scraping
+  - `Mini Project - Intro to Web Scraping` - Scraping some data from IMDB dataset and specphone Samsung database by using rvest - `R`. 
