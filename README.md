@@ -3,6 +3,7 @@
 
 ## Main
 * [x] Spreadsheets
+  - `HW_Spreadsheets01-04`
 * [x] SQL Database
 * [x] R Programming
   - `HW_R_ChatBot_OrderPizza` is for a ChatBot to order Pizza via https://replit.com/@BudsadeeSareera/Batch06HW01ChatbotPizza?v= - `R`.
