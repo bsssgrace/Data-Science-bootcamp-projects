@@ -13,7 +13,7 @@
   - `HW_Data Visualization_Exploratory Data Analysis` is an analysis based on diamonds dataset using tidyverse and ggplot2 to create visualization - `R`.
 * [x] Statistics 
 * [x] Intro to Classical Machine Learning
-* [ ] Intro to Python
+* [x] Intro to Python
   - `On-Demand_Intro to Python` is created when learning basic Python, OOP and Pandas in on-demand class - `Python`. 
 * [ ] Essential Python for Data Analyst
 * [ ] Dashboard
