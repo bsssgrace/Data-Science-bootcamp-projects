@@ -15,7 +15,7 @@
 * [x] Intro to Classical Machine Learning
 * [x] Intro to Python
   - `On-Demand_Intro to Python` is created when learning basic Python, OOP and Pandas in on-demand class - `Python`. 
-  - `Batch06_Intro to Python_Homework _ATM` is an ATM class `(Object Oriented Programming)` having at least methods for user to interact with ATM functions - `Python`.
+  - `Batch06_Intro to Python_Homework _ATM` is an ATM class `(Object Oriented Programming)` having at 5 least methods for user to interact with ATM functions - `Python`.
 * [x] Essential Python for Data Analyst
 * [ ] Dashboard
 
