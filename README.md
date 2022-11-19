@@ -16,6 +16,7 @@
 * [x] Intro to Python
   - `On-Demand_Intro to Python` is created when learning basic Python, OOP and Pandas in on-demand class - `Python`. 
   - `Batch06_Intro to Python_Homework _ATM` is an ATM class `(Object Oriented Programming)` having at least 5 methods for user to interact with ATM functions - `Python`.
+  - `Batch06_Intro to Python_Homework _RPSGame` is a Rock Paper Scissors Game creating in `Python`.
 * [x] Essential Python for Data Analyst
 * [ ] Dashboard
 
