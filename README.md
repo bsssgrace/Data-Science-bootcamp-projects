@@ -15,7 +15,8 @@
 * [x] Intro to Classical Machine Learning
 * [x] Intro to Python
   - `On-Demand_Intro to Python` is created when learning basic Python, OOP and Pandas in on-demand class - `Python`. 
-* [ ] Essential Python for Data Analyst
+* [x] Essential Python for Data Analyst
+  - `Creating an ATM class having at least methods for user to interact with ATM functions via https://colab.research.google.com/drive/1tIDENMAEn1LMpFXk9mNT1hj3LV_MmTIG?usp=sharing
 * [ ] Dashboard
 
 ## Mini projects
