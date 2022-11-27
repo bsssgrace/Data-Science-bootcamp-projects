@@ -18,7 +18,8 @@
   - `Batch06_Intro to Python_Homework _ATM` is an ATM class `(Object Oriented Programming)` having at least 5 methods for user to interact with ATM functions - `Python`.
   - `Batch06_Intro to Python_Homework _RPSGame` is an interactive Rock Paper Scissors Game - `Python`.
 * [x] Essential Python for Data Analyst
-* [ ] Dashboard
+  - `HW_Essential_Python_API_Web_Scraping` is a web scraping a list of wine along with its price and category - `Python`.
+* [x] Dashboard
 
 ## Mini projects
 * [x] Intro to Web Scraping
