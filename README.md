@@ -19,6 +19,7 @@
   - `Batch06_Intro to Python_Homework _RPSGame` is an interactive Rock Paper Scissors Game - `Python`.
 * [x] Essential Python for Data Analyst
   - `HW_Essential_Python_API_Web_Scraping` is a web scraping of a list of wine along with its price and category - `Python`.
+  - `HW_Essential_Python_ML_Diabetes.ipynb` - `Python`.
 * [x] Dashboard
 
 ## Mini projects
